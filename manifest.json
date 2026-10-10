@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-10-notification-bell",
+  "version": "2026-10-10-topic-frame-v2",
   "publicPreview": true,
   "youtubeChanges": false,
   "files": [
@@ -15,158 +15,148 @@
     },
     {
       "path": "README.md",
-      "bytes": 719,
-      "sha256": "5e7b3ca4293473cfd5eaa9c118e10fcc27416a9c20575085cc88af15760fc5aa"
+      "bytes": 434,
+      "sha256": "454df1d869988d78b34d4336db28b7a742c8cf213a48eb435310611e969f527e"
     },
     {
       "path": "frames/jadav-payeng/000-0.100.jpg",
-      "bytes": 101339,
-      "sha256": "ab5d6237ae4b41053b1812b059d42aeba14f9da4ccdce293a241e9eb08eba795"
+      "bytes": 101499,
+      "sha256": "f7d7864550b25e5b5c69a06393a842ef5b83ccbf1109ddaad18719422624b2b8"
     },
     {
       "path": "frames/james-harrison/000-0.100.jpg",
-      "bytes": 160070,
-      "sha256": "e15be117072f8cf738b9ca1ba726a0c3f475809b4ef6ec1b305f5b922c528889"
+      "bytes": 154958,
+      "sha256": "18684431cf0d42642f5cbbf3ec1d765ba1e177bb3579917ce53c22a36c6bc38b"
     },
     {
       "path": "frames/luis-soriano/000-0.100.jpg",
-      "bytes": 113266,
-      "sha256": "135ad8f023c94465056051c2bfc464147bdd100e61def1f3ab2f82b539a7ef92"
+      "bytes": 113610,
+      "sha256": "88cf6311746347a5700380e7b4c413f034784c004de83fd65867d0b3fa747999"
     },
     {
       "path": "frames/mamoudou-gassama/000-0.100.jpg",
-      "bytes": 70903,
-      "sha256": "0f60d0123cff973177131852471697d6c7285acebda5fb3393102a46afa034ca"
+      "bytes": 75168,
+      "sha256": "5c0ae436cb4f507022eca95ee4778a95daa3c89fbab3b340388e68922685c9f0"
     },
     {
       "path": "frames/peter-tabichi/000-0.100.jpg",
-      "bytes": 139082,
-      "sha256": "3508bc3749ca6b6a1b0de2d94266af2cd4d5a9469246903e623eed1b1bd3010d"
+      "bytes": 144364,
+      "sha256": "a8ad441cc1d74e6efde264cd6ed7abd6b77db899e95149d66f6f43cb63a13223"
     },
     {
       "path": "index.html",
-      "bytes": 7759,
-      "sha256": "58e0c5150e92ce1d9f8d9fe3f6840220644244527b0b4343f3b166f9684811b3"
+      "bytes": 4227,
+      "sha256": "5199f466b23d6866892ea998d4d497b0bb7bfd15eb6da8847aec83cdbd83f2ea"
     },
     {
       "path": "jadav-payeng-bell_master.mp4",
-      "bytes": 19785441,
-      "sha256": "b39a7ad7f5a775761b8e20e59ecfb1e2e70bd1d94a9bb27edd824fd1e3b44627"
+      "bytes": 20341590,
+      "sha256": "6689136688ade58db269ef0b9aabda6783093e8ed613203cec59b0d12ae16f5e"
     },
     {
       "path": "jadav-payeng-contact.jpg",
-      "bytes": 771812,
-      "sha256": "c00de87be8753badfeea30a5ee6705a8174b99812ce88a30351298754fabca71"
+      "bytes": 652129,
+      "sha256": "078c0ab2c74014435d4ed04ee5b0032c60c32ffe9b875396b5647d3a748fbe01"
     },
     {
       "path": "james-harrison-bell_master.mp4",
-      "bytes": 18712420,
-      "sha256": "22716107085345b7ea87fb0f14eab6603658f2c23e17f46de85775180c5655b3"
+      "bytes": 19104416,
+      "sha256": "024f5a0a44d89a4d571c75a6ab8883aaaf1b6e1b2016909453cb1073ee19d7bf"
     },
     {
       "path": "james-harrison-contact.jpg",
-      "bytes": 955253,
-      "sha256": "0f207783efce6a33b7045f29411003d338ea505bf6294b98e8f82ca90d24e12a"
+      "bytes": 709265,
+      "sha256": "105a19fe78c222183851e78fe5cb05cbad76eae65de2c11413c59f5aca7621a0"
     },
     {
       "path": "luis-soriano-bell_master.mp4",
-      "bytes": 20240010,
-      "sha256": "83fb34d6a8258e31ef87a86e9a99acf202c38668bbcbf51f19ff78a3ef540fed"
+      "bytes": 20762277,
+      "sha256": "2aa89d8bc8f94b7221b551eb9aabaaa7de8cdbfdecb3927a7bdb77c874786d00"
     },
     {
       "path": "luis-soriano-contact.jpg",
-      "bytes": 840423,
-      "sha256": "1e2ccf2be663b153ff44ae669ea3bae7161a80222fb237236c0e50270c7f9d3d"
+      "bytes": 647636,
+      "sha256": "93d718edff5a352fc24b967e252fef1699645b4e25c130ac1df785ee46cbff70"
     },
     {
       "path": "mamoudou-gassama-bell_master.mp4",
-      "bytes": 22711007,
-      "sha256": "7e01b5e02a44c26e940692c5e9da5d75a90433fbd761f8839d0557f7ad5f722f"
+      "bytes": 23737663,
+      "sha256": "d2c7cf74744f210ba9702988f8703f588f230546db595291507940208af6ac29"
     },
     {
       "path": "mamoudou-gassama-contact.jpg",
-      "bytes": 662921,
-      "sha256": "c89681fd6b9068184ac2430e9290fe6d1ea0684b503a8cd0a8e89b415f3ee91c"
+      "bytes": 564695,
+      "sha256": "02fccf8377119b936216ebf22e56532f2ea14ceee852b34c302f341bb0f3df12"
     },
     {
       "path": "old-five/frames/gander-community/000-0.100.jpg",
-      "bytes": 122159,
-      "sha256": "9ce18b283a3e8a5912d76e1156f9db12d50ec4ab749dfeb84649a1be78d90bd6"
+      "bytes": 122670,
+      "sha256": "09efc704351d7452c3b558e8c354098223009f674c397cf506b95d8819abaa29"
     },
     {
       "path": "old-five/frames/han-sanghoon/000-0.100.jpg",
-      "bytes": 118463,
-      "sha256": "08502821cf5b653043ea71b31502e22387bdf734489fee123dfd0cd2c9f32701"
+      "bytes": 122317,
+      "sha256": "198508d4998d0ac531293efcfe86cbc53848385a17ebe988bba879f03a69fac7"
     },
     {
       "path": "old-five/frames/lee-soohyun/000-0.100.jpg",
-      "bytes": 128934,
-      "sha256": "53acc8740a1714c7d8f1ec02a5a8235fda48438a61df6a4e8d24e8236268dc3e"
+      "bytes": 130840,
+      "sha256": "2cb18ff4aff2898b9dab46458aa8aca28c74e228d4468f3409e35adaab931d4b"
     },
     {
       "path": "old-five/frames/park-chunja/000-0.100.jpg",
-      "bytes": 123526,
-      "sha256": "39e1867657e1c176c6bf72ede5b37237fb0d23d82fb48702aaf26ef5b8409d0e"
+      "bytes": 123903,
+      "sha256": "c08644ad88e2a9a53d30b00f62bf38d2845a2b3dfd2fecb091023a1b6ff4e9b3"
     },
     {
       "path": "old-five/frames/ronald-read/000-0.100.jpg",
-      "bytes": 104554,
-      "sha256": "addcc43f02248879464832bc4c8fb695865152f9767e52c3c78314c80f3d7af4"
+      "bytes": 106863,
+      "sha256": "7ccc64e25fa1c163868e875b0894d5b57819b0d89041a624feb4e7ae757543ae"
     },
     {
       "path": "old-five/gander-community-overlay-native_master.mp4",
-      "bytes": 17565305,
-      "sha256": "9d476c8f93436a32fe79971712e6204f6ef42613fa1918af6e02020775ca6f10"
+      "bytes": 17793244,
+      "sha256": "b8061425fd5e3d88c3dc04677e0b589355d2efc4ddb1baaa417123df75848e56"
     },
     {
       "path": "old-five/han-sanghoon-overlay-native_master.mp4",
-      "bytes": 20020697,
-      "sha256": "71454d861876e8176afd54f69fe554de09873426e6bd7eb43dd3f8b463958085"
+      "bytes": 20100968,
+      "sha256": "882f13ca595887fa61ea59c0332fd24cfb1e6f2c1ca91e2383f5975f39ee082a"
     },
     {
       "path": "old-five/index.html",
-      "bytes": 3489,
-      "sha256": "1184595ee2b18d4ffe61cc2b2f021dead808440128ae79b4a0fe3eb1d7f202bd"
+      "bytes": 4273,
+      "sha256": "d8ca11888bd0858013f6bfce454dea7caf10f9b8db64fe7717e3b5a0adf7780d"
     },
     {
       "path": "old-five/lee-soohyun-overlay-native_master.mp4",
-      "bytes": 10851725,
-      "sha256": "571e2b01c6f2a9fbdd1897c4fe240c5e9b0711267891203e75e81fc3b80040b8"
+      "bytes": 10692740,
+      "sha256": "980055e6e64e35841141e7767711a0fe3e27f734acc67f68f6429817e1d6bd94"
     },
     {
       "path": "old-five/park-chunja-overlay-native_master.mp4",
-      "bytes": 14957496,
-      "sha256": "e17cfc7fcee677107d4daf715fdae7e1cf19c087f3d0664f6377ed40183ab132"
+      "bytes": 14848163,
+      "sha256": "35418d1ba4d806d8b9b5d1b0cf7997a50f59fc1c429f92c4b032ce8497de99f3"
     },
     {
       "path": "old-five/ronald-read-overlay-native_master.mp4",
-      "bytes": 9043702,
-      "sha256": "7e3b1f78339346b822b59d4b94eae2707d8c5963fc67b8c2ab9d58067099c224"
+      "bytes": 9114267,
+      "sha256": "f684e80803a0ee037af5ef13f0a6c67a97dc6dcb4196508c290e3153eff96da9"
     },
     {
       "path": "peter-tabichi-bell_master.mp4",
-      "bytes": 16792639,
-      "sha256": "0e66952508f7da508bef0c55c502b3d7e0b910ac7f308a8353c2b855e07cdbc1"
+      "bytes": 17569399,
+      "sha256": "eaa70ae7707072cdd8a11c74ab50c8a693ba79f69500be25cd438cc7b59a0df2"
     },
     {
       "path": "peter-tabichi-contact.jpg",
-      "bytes": 763008,
-      "sha256": "55adde7ea7ca5b31f05e79cb243900d6341c02ceeb770f5e8c8ef3b76bdd3080"
+      "bytes": 645678,
+      "sha256": "188b7a0cbbbef0738cb1515e0c70812c72d792f16264676b3c03dc118df4ea32"
     },
     {
       "path": "robots.txt",
       "bytes": 26,
       "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
-    },
-    {
-      "path": "shared/notification-pair.wav",
-      "bytes": 518444,
-      "sha256": "87439502dc5d424a6a4f9139b01b22ca827f38cc65d08c2c3414cbc33654f085"
-    },
-    {
-      "path": "sources.html",
-      "bytes": 7216,
-      "sha256": "2961d88ad4a35da30348cf71994e5d3ed140b5450de2a372329b2b40d0b72e81"
     }
   ]
 }
